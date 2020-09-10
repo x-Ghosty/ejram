@@ -1,9 +1,6 @@
-# GB
-EjramGhost 
-App paid version for free 
-
-Ghost blogger
-Ghost blogger
-inaccessible
-inaccessible
-
+# © 𝐞𝐣𝐫𝐚𝐦𝐆𝐡𝐨𝐬𝐭 
+# Hello world
+# Project X 
+# testing mode 
+# license apatche
+ 
