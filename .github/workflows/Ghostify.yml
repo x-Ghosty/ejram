@@ -59,7 +59,7 @@ __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_4, __MAC_10_10, __IPHONE_2_0, __IPHONE_7
 XPC_EXPORT XPC_WARN_RESULT XPC_NONNULL3
 kern_return_t
 bootstrap_subset(mach_port_t bp, mach_port_t requestor_port,
-	mach_port_t *subset_port);
+mach_port_t *subset_port);
 
 __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_4, __MAC_10_5, __IPHONE_2_0, __IPHONE_7_0)
 XPC_EXPORT XPC_WARN_RESULT XPC_NONNULL2
