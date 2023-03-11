@@ -1,0 +1,257 @@
+### Begin System Info (Generated 2023-02-11 22:09:06) ###
+
+-- Site Info
+
+Site URL:                 https://ghosta.dev
+Home URL:                 https://ghosta.dev
+Multisite:                No
+
+-- Hosting Provider
+
+Host:                     DBH: localhost, SRV: ghosta.dev
+
+-- User Browser
+
+Platform:                 iPhone 
+Browser Name:             iPhone  
+Browser Version:          16.1 
+User Agent String:        Mozilla/5.0 (iPhone; CPU iPhone  
+			  OS 16_1_2 like Mac OS X) AppleWe
+                          bKit/605.1.15 (KHTML, like Gecko
+                          ) Version/16.1 Mobile/15E148 Saf
+                          ari/604.1
+                          
+-- WordPress Configuration
+
+Version:                  6.1.1
+Language:                 en_US
+Permalink Structure:      /%postname%/
+Active Theme:             Consus 1.0.3
+WP Timezone:              +00:00
+EDD Timezone:             GMT+0000
+
+-- Customized Templates
+
+No custom templates found.
+
+
+Show On Front:            page
+Page On Front:            #10
+Page For Posts:           #2289
+ABSPATH:                  /home2/ghostade/public_html/
+Remote Post:              wp_remote_post() works
+Table Prefix:             Length: 4   Status: Acceptable
+WP_DEBUG:                 Disabled
+Memory Limit:             40M
+Registered Post Stati:    publish, future, draft, pending, private, trash, auto-draft, inherit, request-pending, request-confirmed, request-failed, request-completed, refunded, failed, revoked, abandoned, processing, active, inactive, spam, preapproval_pending, preapproval, cancelled
+
+-- EDD Configuration
+
+Version:                  3.1.0.6
+Upgraded From:            None
+Test Mode:                Disabled
+AJAX:                     Enabled
+Guest Checkout:           Enabled
+Symlinks:                 Disabled
+Download Method:          Direct
+Currency Code:            USD
+Currency Position:        before
+Decimal Separator:        .
+Thousands Separator:      ,
+Upgrades Completed:       upgrade_payment_taxes,upgrade_customer_payments_association,upgrade_user_api_keys,remove_refunded_sale_logs,update_file_download_log_data,migrate_tax_rates,migrate_discounts,migrate_orders,migrate_customer_addresses,migrate_customer_email_addresses,migrate_customer_notes,migrate_logs,migrate_order_notes,v30_legacy_data_removed,stripe_customer_id_migration
+Download Link Expiration:  hour(s)
+
+-- EDD Database Tables
+
+customers:                      202006101
+customermeta:                   201807111
+customer_addresses:             202004051
+customer_email_addresses:       202002141
+adjustments:                    202102161
+adjustmentmeta:                 201806142
+notes:                          202002141
+notemeta:                       201805221
+orders:                         202108041
+ordermeta:                      201805221
+order_items:                    202110141
+order_itemmeta:                 201805221
+order_adjustments:              202105221
+order_adjustmentmeta:           201805221
+order_addresses:                202002141
+order_transactions:             202205241
+logs:                           202002141
+logmeta:                        201805221
+logs_api_requests:              202002141
+logs_api_requestmeta:           201907291
+logs_file_downloads:            202002141
+logs_file_downloadmeta:         201907291
+
+-- EDD Database Row Counts
+
+customers:                      0
+customermeta:                   0
+customer_addresses:             0
+customer_email_addresses:       0
+adjustments:                    0
+adjustmentmeta:                 0
+notes:                          0
+notemeta:                       0
+orders:                         0
+ordermeta:                      0
+order_items:                    0
+order_itemmeta:                 0
+order_adjustments:              0
+order_adjustmentmeta:           0
+order_addresses:                0
+order_transactions:             0
+logs:                           0
+logmeta:                        0
+logs_api_requests:              0
+logs_api_requestmeta:           0
+logs_file_downloads:            0
+logs_file_downloadmeta:         0
+
+-- EDD Page Configuration
+
+Checkout:                 Valid
+Checkout Page:            https://ghosta.dev/checkout/
+Success Page:             https://ghosta.dev/checkout/receipt/
+Failure Page:             https://ghosta.dev/checkout/transaction-failed/
+Downloads Slug:           /downloads
+
+-- EDD Gateway Configuration
+
+Enabled Gateways:         None
+
+-- EDD Tax Configuration
+
+Taxes:                    Disabled
+Default Rate:             0%
+Display On Checkout:      Not Displayed
+Prices Include Tax:       No
+
+-- Drop Ins
+
+db-error.php:             
+fatal-error-handler.php:  
+maintenance.php:          
+
+-- Must-Use Plugins
+
+Endurance Page Cache:     2.2
+SSO:                      0.4
+
+-- WordPress Active Plugins
+
+Akismet Anti-Spam:        5.0.2
+https://akismet.com/
+
+All in One SEO:           4.3.0
+https://aioseo.com/
+
+App Builder - Create Native Android & iOS Apps On The Flight: 3.3.1
+https://appcheap.io/docs
+
+Coming Soon Page, Maintenance Mode, Landing Pages & WordPress Website Builder by SeedProd: 6.15.7
+https://www.seedprod.com/lite-upgrade/?utm_source=WordPress&utm_campaign=liteplugin&utm_medium=plugin-uri-link
+
+Creative Mail by Newfold Digital: 1.6.7
+https://wordpress.org/plugins/creative-mail-by-constant-contact/
+
+Easy Digital Downloads:   3.1.0.6
+https://easydigitaldownloads.com
+
+File Manager Advanced:    5.0.2
+https://wordpress.org/plugins/file-manager-advanced
+
+Filester - File Manager Pro: 1.7.6
+https://ninjateam.org/filester
+
+Google Analytics for WordPress by MonsterInsights: 8.12.1
+https://www.monsterinsights.com/?utm_source=liteplugin&utm_medium=pluginheader&utm_campaign=pluginurl&utm_content=7%2E0%2E0
+
+Hello Dolly:              1.7.2
+http://wordpress.org/plugins/hello-dolly/
+
+Jetpack:                  11.8
+https://jetpack.com
+
+Kubio:                    1.6.4
+https://kubiobuilder.com
+
+OptinMonster:             2.12.2
+https://optinmonster.com
+
+SiteGround Optimizer:     7.3.0
+https://siteground.com
+
+TablePress:               2.0.4
+https://tablepress.org/
+
+The Bluehost Plugin:      2.12.19
+https://www.bluehost.com/
+
+TrustPulse API:           1.0.7
+https://trustpulse.com
+
+WordPress Importer:       0.8
+https://wordpress.org/plugins/wordpress-importer/
+
+WP All Import:            3.7.1
+http://www.wpallimport.com/wordpress-xml-csv-import/?utm_source=import-plugin-free&utm_medium=wp-plugins-page&utm_campaign=upgrade-to-pro
+
+wpDataTables - Tables & Table Charts: 2.1.51
+https://wpdatatables.com
+
+WP Directory Kit:         1.1.5
+https://wpdirectorykit.com/plugins/wpdirectorykit.html
+
+WP Fastest Cache:         1.1.1
+http://wordpress.org/plugins/wp-fastest-cache/
+
+WP File Manager:          7.1.8
+https://wordpress.org/plugins/wp-file-manager
+
+WPForms Lite:             1.7.9.1
+https://wpforms.com
+
+WPIDE - File Manager & Code Editor: 3.4.6
+https://wpide.com
+
+
+-- WordPress Inactive Plugins
+
+Yoast SEO:                20.1
+https://yoa.st/1uj
+
+
+-- Webserver Configuration
+
+PHP Version:              8.1.15
+MySQL Version:            5.7.23
+Webserver Info:           Apache
+
+-- PHP Configuration
+
+Memory Limit:             512M
+Upload Max Size:          512M
+Post Max Size:            516M
+Upload Max Filesize:      512M
+Time Limit:               60
+Max Input Vars:           1000
+Display Errors:           N/A
+PHP Arg Separator:        &
+
+-- PHP Extensions
+
+cURL:                     Supported
+fsockopen:                Supported
+SOAP Client:              Installed
+Suhosin:                  Not Installed
+
+-- Session Configuration
+
+EDD Use Sessions:         Enabled
+Session:                  Disabled
+
+### End System Info ###
