@@ -53,7 +53,7 @@ __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_4, __MAC_10_10, __IPHONE_2_0, __IPHONE_7
 XPC_EXPORT XPC_WARN_RESULT XPC_NONNULL5
 kern_return_t
 bootstrap_create_server(mach_port_t bp, cmd_t server_cmd, uid_t server_uid,
-	boolean_t on_demand, mach_port_t *server_port);
+boolean_t on_demand, mach_port_t *server_port);
 
 __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_4, __MAC_10_10, __IPHONE_2_0, __IPHONE_7_0)
 XPC_EXPORT XPC_WARN_RESULT XPC_NONNULL3
@@ -96,7 +96,7 @@ __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_4, __MAC_10_5, __IPHONE_2_0, __IPHONE_7_
 XPC_EXPORT XPC_WARN_RESULT XPC_NONNULL2
 kern_return_t
 bootstrap_status(mach_port_t bp, name_t service_name,
-	bootstrap_status_t *service_active);
+bootstrap_status_t *service_active);
 
 __OSX_AVAILABLE_STARTING(__MAC_10_4, __IPHONE_2_0)
 XPC_EXPORT XPC_WARN_RESULT
